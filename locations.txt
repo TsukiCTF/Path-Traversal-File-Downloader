@@ -1,0 +1,3 @@
+exampleDir1/exampleDir2/exampleFile
+exampleDir1/exampleFile
+exampleFile
